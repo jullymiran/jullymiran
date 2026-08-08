@@ -4,7 +4,7 @@
 - 👩🏾 Pronomes: ela/dela
 
 
- ## Linguagens de Programação
+ ## Tech Stack
 
 <div style="display: inline_block"><br> 
   <img align="center" alt="C#" height="50" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
@@ -13,13 +13,11 @@
   <img align="center" alt="CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img align="center" alt="JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
 </div>
-
-## Ferramentas Utilizadas
-
 <div>
    <img align="center" alt="vscode" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img align="center" alt="visualstudio" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />  
 </div>
+
 
 
 ## Entre em Contato
